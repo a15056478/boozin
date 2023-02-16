@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115282545148",
+    "project_id": "boozin-health-test",
+    "storage_bucket": "boozin-health-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115282545148:android:c5d08786dc2f387bd7ca79",
+        "android_client_info": {
+          "package_name": "com.example.boozin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115282545148-6iq1sjqncp4jkaqhl2bfv8f09ugv54bs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.boozin",
+            "certificate_hash": "a5fb8919a047fc95c11b5cadd197bb2e6e95d8c6"
+          }
+        },
+        {
+          "client_id": "115282545148-23l2juhtkgm70sr0vbij74f3cs3ppp9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUl9Q0TLgtkPuGigSBSbDi4HoMTHKkAPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115282545148-23l2juhtkgm70sr0vbij74f3cs3ppp9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
